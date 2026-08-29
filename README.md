@@ -8,8 +8,6 @@ Desafio DIO de lógica de programação
 
 ![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![DIO](https://img.shields.io/badge/DIO-Digital%20Innovation%20One-FF4C00?style=for-the-badge&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Concluído-brightgreen?style=for-the-badge)
-![Licença](https://img.shields.io/badge/Licença-MIT-blue?style=for-the-badge)
 
 </div>
 
