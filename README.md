@@ -24,7 +24,7 @@ Este projeto foi desenvolvido como parte da ** Formação Lógica de Programaç�
 - 🔁 **Laços de repetição**
 - 🔀 **Estruturas de decisão**
 
-Todo herói começa sua jornada como
+A linguagem escolhida por mim foi Python 🐍.
 ---
 
 ## 🎯 Objetivo do desafio
