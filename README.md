@@ -4,7 +4,7 @@ Desafio DIO de lógica de programação
 
 # ⚔️ Classificador de Nível de Herói 🛡️
 
-### Um desafio de lógica de programação em Python
+### Um desafio de lógica de programação
 
 ![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![DIO](https://img.shields.io/badge/DIO-Digital%20Innovation%20One-FF4C00?style=for-the-badge&logoColor=white)
@@ -19,13 +19,14 @@ Desafio DIO de lógica de programação
 
 Todo herói começa sua jornada como um simples aventureiro... até acumular **XP (pontos de experiência)** suficiente para subir de patente! 🏆
 
-Este projeto foi desenvolvido como parte do bootcamp **[nome do curso/bootcamp da DIO]**, com o objetivo de praticar os pilares fundamentais da lógica de programação em Python:
+Este projeto foi desenvolvido como parte da **[Formação Lógica de Programação da DIO ]**, com o objetivo de praticar os pilares fundamentais da lógica de programação:
 
 - 📦 **Variáveis**
 - ➕ **Operadores**
 - 🔁 **Laços de repetição**
 - 🔀 **Estruturas de decisão**
 
+A linguagem escolhida por mim foi Python
 ---
 
 ## 🎯 Objetivo do desafio
