@@ -17,7 +17,7 @@ Desafio DIO de lógica de programação
 
 Todo herói começa sua jornada como um simples aventureiro... até acumular **XP (pontos de experiência)** suficiente para subir de patente! 🏆
 
-Este projeto foi desenvolvido como parte da ** Formação Lógica de Programação da DIO (Digital Innovation One/ https://web.dio.me/) **, com o objetivo de praticar os pilares fundamentais da lógica de programação:
+Este projeto foi desenvolvido como parte da **Formação Lógica de Programação da DIO (Digital Innovation One/ https://web.dio.me/)**, com o objetivo de praticar os pilares fundamentais da lógica de programação:
 
 - 📦 **Variáveis**
 - ➕ **Operadores**
