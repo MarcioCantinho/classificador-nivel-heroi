@@ -61,7 +61,7 @@ Graças ao laço `while`, é possível classificar **quantos heróis quiser** em
 
 ```bash
 # 1. Clone este repositório
-git clone https://github.com/seu-usuario/classificador-nivel-heroi.git
+git clone https://github.com/MarcioCantinho/classificador-nivel-heroi.git
 
 # 2. Acesse a pasta do projeto
 cd classificador-nivel-heroi
