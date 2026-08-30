@@ -1,5 +1,3 @@
-# classificador-nível-heroi
-Desafio DIO de lógica de programação
 <div align="center">
 
 # ⚔️ Classificador de Nível de Herói 🛡️
@@ -25,6 +23,7 @@ Este projeto foi desenvolvido como parte da **Formação Lógica de Programaçã
 - 🔀 **Estruturas de decisão**
 
 A linguagem escolhida por mim foi Python 🐍.
+
 ---
 
 ## 🎯 Objetivo do desafio
@@ -48,7 +47,9 @@ Criar um programa que recebe o **nome** e o **XP** de um herói e retorna automa
 
 O programa pede o nome e o XP do herói, compara o valor de XP com as faixas definidas usando uma estrutura `if / elif / else`, e exibe a mensagem final:
 
+```
 O Herói de nome Thor está no nível de Radiante
+```
 
 Graças ao laço `while`, é possível classificar **quantos heróis quiser** em uma única execução! 🔁
 
@@ -83,3 +84,19 @@ python classificador_heroi.py
 </div>
 
 ---
+
+## 📚 Aprendizados
+
+Este exercício fez parte da trilha de **Lógica de Programação** da [DIO (Digital Innovation One)](https://www.dio.me/), reforçando conceitos essenciais para quem está começando na programação:
+
+> "A jornada de mil linhas de código começa com um único `print()`." 🐍
+
+---
+
+## 👤 Autor
+
+Feito com 💜 por **[Seu Nome Aqui]**
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seu-usuario)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-usuario)
+
